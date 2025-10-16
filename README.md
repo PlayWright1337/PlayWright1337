@@ -52,7 +52,7 @@
 ## 📊 GitHub Stats
 
 ![PlayWright1337's Stats](https://github-readme-stats.vercel.app/api?username=PlayWright1337&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PlayWright1337&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PlayWright1337&layout=compact&theme=radical
 
 ---
 
