@@ -5,9 +5,11 @@
 
 ## 📞 Контакты
 
-[![Telegram](https://img.shields.io/badge/Telegram-@playwright1337-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/playwright1337)
-[![GitHub](https://img.shields.io/badge/GitHub-PlayWright1337-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PlayWright1337)
-[![Site](https://img.icons8.com/?size=100&id=mxnsvF05U2Vw&format=png&color=000000)](https://playwright.best)
+[![Telegram](https://img.shields.io/badge/Telegram-@playwright1337-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a2e)](https://t.me/playwright1337)
+
+[![GitHub](https://img.shields.io/badge/GitHub-PlayWright1337-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/PlayWright1337)
+
+[![Website](https://img.shields.io/badge/Website-playwright.best-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1a2e)](https://playwright.best)
 
 ## 🛠 Технологии
 
