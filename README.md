@@ -2,12 +2,12 @@
 
 **Full-Stack Developer | Backend Specialist | Telegram Bots Expert**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📞 Контакты
 
 [![Telegram](https://img.shields.io/badge/Telegram-@playwright1337-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/playwright1337)
 [![GitHub](https://img.shields.io/badge/GitHub-PlayWright1337-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PlayWright1337)
+[![Site](https://playwright.best/)](https://svgsilh.com/svg/1873373.svg)
 
 ## 🛠 Технологии
 
