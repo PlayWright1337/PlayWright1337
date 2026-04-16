@@ -7,7 +7,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-@playwright1337-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/playwright1337)
 [![GitHub](https://img.shields.io/badge/GitHub-PlayWright1337-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PlayWright1337)
-[![Site](https://svgsilh.com/svg/1873373.svg)](https://playwright.best)
+[![Site](https://img.icons8.com/?size=100&id=mxnsvF05U2Vw&format=png&color=000000)](https://playwright.best)
 
 ## 🛠 Технологии
 
